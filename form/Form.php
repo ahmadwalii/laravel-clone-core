@@ -6,10 +6,10 @@
  * Time: 2:50 PM
  */
 
-namespace app\core\form;
+namespace qasimlearner\laravelclone\form;
 
 
-use app\core\Model;
+use qasimlearner\laravelclone\Model;
 
 class Form
 {

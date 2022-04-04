@@ -6,7 +6,7 @@
  * Time: 10:18 PM
  */
 
-namespace app\core;
+namespace qasimlearner\laravelclone;
 
 
 abstract class Model

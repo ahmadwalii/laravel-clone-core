@@ -6,7 +6,7 @@
  * Time: 2:38 AM
  */
 
-namespace app\core\middlewares;
+namespace qasimlearner\laravelclone\middlewares;
 
 
 abstract class Middleware

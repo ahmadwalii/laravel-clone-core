@@ -6,7 +6,7 @@
  * Time: 2:51 AM
  */
 
-namespace app\core\exceptions;
+namespace qasimlearner\laravelclone\exceptions;
 
 
 class ForbiddenException extends \Exception

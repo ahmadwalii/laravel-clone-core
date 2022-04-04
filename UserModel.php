@@ -6,9 +6,9 @@
  * Time: 2:05 AM
  */
 
-namespace app\core;
+namespace qasimlearner\laravelclone;
 
-use app\core\db\DbModel;
+use qasimlearner\laravelclone\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

@@ -6,7 +6,7 @@
  * Time: 3:48 AM
  */
 
-namespace app\core\exceptions;
+namespace qasimlearner\laravelclone\exceptions;
 
 
 class NotFoundException extends \Exception

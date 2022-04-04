@@ -6,10 +6,10 @@
  * Time: 4:21 AM
  */
 
-namespace app\core\db;
+namespace qasimlearner\laravelclone\db;
 
-use app\core\Model;
-use app\core\Application;
+use qasimlearner\laravelclone\Model;
+use qasimlearner\laravelclone\Application;
 
 abstract class DbModel extends Model
 {

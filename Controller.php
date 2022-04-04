@@ -6,10 +6,10 @@
  * Time: 4:45 PM
  */
 
-namespace app\core;
+namespace qasimlearner\laravelclone;
 
 
-use app\core\middlewares\Middleware;
+use qasimlearner\laravelclone\middlewares\Middleware;
 
 class Controller
 {
@@ -18,7 +18,7 @@ class Controller
 //	public array $middlewares = [];
 	public $layout = 'main';
 	/**
-	 * @var \app\core\middlewares\Middleware[]
+	 * @var \qasimlearner\laravelclone\middlewares\Middleware[]
 	 */
 	protected $middlewares = [];
 

@@ -6,7 +6,7 @@
  * Time: 1:10 PM
  */
 
-namespace app\core;
+namespace qasimlearner\laravelclone;
 
 
 class View

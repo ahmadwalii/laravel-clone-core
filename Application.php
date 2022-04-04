@@ -6,11 +6,11 @@
  * Time: 11:09 AM
  */
 
-namespace app\core;
+namespace qasimlearner\laravelclone;
 
 
 use app\models\User;
-use app\core\db\Database;
+use qasimlearner\laravelclone\db\Database;
 
 class Application
 {

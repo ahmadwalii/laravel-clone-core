@@ -6,7 +6,7 @@
  * Time: 12:04 PM
  */
 
-namespace app\core;
+namespace qasimlearner\laravelclone;
 
 
 class Request

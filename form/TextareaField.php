@@ -6,7 +6,7 @@
  * Time: 8:42 PM
  */
 
-namespace app\core\form;
+namespace qasimlearner\laravelclone\form;
 
 
 class TextareaField extends Field

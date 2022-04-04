@@ -6,10 +6,10 @@
  * Time: 11:09 AM
  */
 
-namespace app\core;
+namespace qasimlearner\laravelclone;
 
 
-use app\core\exceptions\NotFoundException;
+use qasimlearner\laravelclone\exceptions\NotFoundException;
 
 class Router
 {

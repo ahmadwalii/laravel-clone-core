@@ -6,5 +6,10 @@
             "email": "rana.amir11980@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "qasimlearner\\laravelclone": "."
+        }
+    }
 }

@@ -6,7 +6,7 @@
  * Time: 3:48 PM
  */
 
-namespace app\core;
+namespace qasimlearner\laravelclone;
 
 
 class Response

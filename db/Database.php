@@ -6,7 +6,7 @@
  * Time: 3:51 PM
  */
 
-namespace app\core\db;
+namespace qasimlearner\laravelclone\db;
 
 
 class Database

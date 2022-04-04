@@ -6,11 +6,11 @@
  * Time: 2:40 AM
  */
 
-namespace app\core\middlewares;
+namespace qasimlearner\laravelclone\middlewares;
 
 
-use app\core\Application;
-use app\core\exceptions\ForbiddenException;
+use qasimlearner\laravelclone\Application;
+use qasimlearner\laravelclone\exceptions\ForbiddenException;
 
 class AuthMiddleware extends Middleware
 {
