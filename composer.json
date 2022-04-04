@@ -1,0 +1,10 @@
+{
+    "name": "qasim/core",
+    "authors": [
+        {
+            "name": "Amir Rana",
+            "email": "rana.amir11980@gmail.com"
+        }
+    ],
+    "require": {}
+}
